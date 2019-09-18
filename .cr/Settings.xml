@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <Container Key="-61832997">
+    <Items>
+      <Item Id="{8fc46191-2e3f-4b23-80bc-b82d129be115}">
+        <Filename>DocumentStringItem.cs</Filename>
+        <FilePath>f:\visual studio 2017\projects\customfieldsdemo\customfieldsdemo.module\businessobjects\documentstringitem.cs</FilePath>
+        <Folders>
+          <Item>BusinessObjects</Item>
+        </Folders>
+        <ProjectFileName>F:\Visual Studio 2017\Projects\CustomFieldsDemo\CustomFieldsDemo.Module\CustomFieldsDemo.Module.csproj</ProjectFileName>
+        <ProjectName>CustomFieldsDemo.Module</ProjectName>
+      </Item>
+      <Item Id="{81060aad-c7d8-4e8b-bd80-ce7f4857e448}">
+        <Filename>DocumentIntItem.cs</Filename>
+        <FilePath>f:\visual studio 2017\projects\customfieldsdemo\customfieldsdemo.module\businessobjects\documentintitem.cs</FilePath>
+        <Folders>
+          <Item>BusinessObjects</Item>
+        </Folders>
+        <ProjectFileName>F:\Visual Studio 2017\Projects\CustomFieldsDemo\CustomFieldsDemo.Module\CustomFieldsDemo.Module.csproj</ProjectFileName>
+        <ProjectName>CustomFieldsDemo.Module</ProjectName>
+      </Item>
+      <Item Id="{9d36abcd-7ec5-43db-92ed-5df05f5cea10}">
+        <Filename>DocumentDateTimeItem.cs</Filename>
+        <FilePath>f:\visual studio 2017\projects\customfieldsdemo\customfieldsdemo.module\businessobjects\documentdatetimeitem.cs</FilePath>
+        <Folders>
+          <Item>BusinessObjects</Item>
+        </Folders>
+        <ProjectFileName>F:\Visual Studio 2017\Projects\CustomFieldsDemo\CustomFieldsDemo.Module\CustomFieldsDemo.Module.csproj</ProjectFileName>
+        <ProjectName>CustomFieldsDemo.Module</ProjectName>
+      </Item>
+      <Item Id="{338536bd-bd99-417e-a926-c62a37077496}">
+        <Filename>DocumentBoolItem.cs</Filename>
+        <FilePath>f:\visual studio 2017\projects\customfieldsdemo\customfieldsdemo.module\businessobjects\documentboolitem.cs</FilePath>
+        <Folders>
+          <Item>BusinessObjects</Item>
+        </Folders>
+        <ProjectFileName>F:\Visual Studio 2017\Projects\CustomFieldsDemo\CustomFieldsDemo.Module\CustomFieldsDemo.Module.csproj</ProjectFileName>
+        <ProjectName>CustomFieldsDemo.Module</ProjectName>
+      </Item>
+    </Items>
+  </Container>
+</Containers>

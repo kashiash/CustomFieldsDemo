@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CustomFieldsDemo">
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="17.1.2.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="Document_DetailView">
+      <Items>
+        <PropertyEditor Id="DocumentItems" View="DocumentItemBase_ListView" LinkView="DocumentItemBase_LookupListView" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>
